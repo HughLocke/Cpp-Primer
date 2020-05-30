@@ -1,6 +1,6 @@
 #include <string>
 #include <iostream>
-#include "bus_data.h"
+#include "bus_data.cpp"
 using namespace std;
 
 int main() {
